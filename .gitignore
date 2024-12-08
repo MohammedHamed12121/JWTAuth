@@ -361,6 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/JWTAuth.API/app.db
-/JWTAuth.API/app.db-shm
-/JWTAuth.API/app.db-wal
